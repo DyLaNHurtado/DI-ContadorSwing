@@ -1,9 +1,9 @@
 # Contador Java Swing
 
-Aplicacion Basica con <b>Swing</b> donde tienes un contador que con JButtons incrementa y decrementa el valor numerico de un JLabel
+Aplicacion Basica con **Swing** donde tienes un **contador** que con **JButtons incrementa y decrementa el valor numerico de un JLabel**
 <br/>
 ### App ScreenShot:
-![](/../<master>/contador.png?raw=true "ScreenShot del Contador")
+![ImagenContador](https://raw.githubusercontent.com/DyLaNHurtado/ContadorJavaSwing/master/contador.PNG)
 <br/>
 <br/>
-##### Hecho por <b>Dylan Hurtado</b> en <b>InteliJ IDEA</b>
+##### Hecho por **Dylan Hurtado** en **InteliJ IDEA**
